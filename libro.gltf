@@ -1,0 +1,519 @@
+{
+  "accessors": [
+    {
+      "name": "INDEX",
+      "bufferView": 0,
+      "componentType": 5125,
+      "type": "SCALAR",
+      "count": 24
+    },
+    {
+      "name": "POSITION",
+      "bufferView": 1,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 18
+    },
+    {
+      "name": "NORMAL",
+      "bufferView": 2,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 18
+    },
+    {
+      "name": "TEXCOORD_0",
+      "bufferView": 3,
+      "componentType": 5126,
+      "type": "VEC2",
+      "count": 18
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 4,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 18
+    },
+    {
+      "name": "INDEX",
+      "bufferView": 5,
+      "componentType": 5125,
+      "type": "SCALAR",
+      "count": 36
+    },
+    {
+      "name": "POSITION",
+      "bufferView": 6,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 24
+    },
+    {
+      "name": "NORMAL",
+      "bufferView": 7,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 24
+    },
+    {
+      "name": "TEXCOORD_0",
+      "bufferView": 8,
+      "componentType": 5126,
+      "type": "VEC2",
+      "count": 24
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 9,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 24
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 10,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 18
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 11,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 24
+    }
+  ],
+  "asset": {
+    "generator": "Roblox Export",
+    "version": "2.0",
+    "min_version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "name": "INDEX",
+      "buffer": 0,
+      "byteLength": 96
+    },
+    {
+      "name": "POSITION",
+      "buffer": 1,
+      "byteLength": 216
+    },
+    {
+      "name": "NORMAL",
+      "buffer": 2,
+      "byteLength": 216
+    },
+    {
+      "name": "TEXCOORD_0",
+      "buffer": 3,
+      "byteLength": 144
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 4,
+      "byteLength": 72
+    },
+    {
+      "name": "INDEX",
+      "buffer": 5,
+      "byteLength": 144
+    },
+    {
+      "name": "POSITION",
+      "buffer": 6,
+      "byteLength": 288
+    },
+    {
+      "name": "NORMAL",
+      "buffer": 7,
+      "byteLength": 288
+    },
+    {
+      "name": "TEXCOORD_0",
+      "buffer": 8,
+      "byteLength": 192
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 9,
+      "byteLength": 96
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 10,
+      "byteLength": 72
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 11,
+      "byteLength": 96
+    }
+  ],
+  "buffers": [
+    {
+      "name": "INDEX",
+      "uri": "data:application/octet-stream;base64,AAAAAAEAAAACAAAAAgAAAAMAAAAAAAAABAAAAAUAAAAGAAAABgAAAAcAAAAEAAAACAAAAAkAAAAKAAAACgAAAAsAAAAIAAAADAAAAA4AAAANAAAADwAAABAAAAARAAAA",
+      "byteLength": 96
+    },
+    {
+      "name": "POSITION",
+      "uri": "data:application/octet-stream;base64,AAAAPwAAAD8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAL8AAAA/AAAAPwAAAL8AAAA/AAAAPwAAAL8AAAC/AAAAPwAAAL8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAL8AAAC/AAAAPwAAAD8AAAA/AAAAPwAAAL8AAAC/AAAAvwAAAL8AAAC/AAAAvwAAAD8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAL8AAAC/AAAAPwAAAD8AAAA/AAAAPwAAAL8AAAA/AAAAPwAAAL8AAAC/",
+      "byteLength": 216
+    },
+    {
+      "name": "NORMAL",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAANZqNT/WajW/AAAAANZqNT/WajW/AAAAANZqNT/WajW/AAAAANZqNT/WajW/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAA",
+      "byteLength": 216
+    },
+    {
+      "name": "TEXCOORD_0",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAgD/zBLU/AACAPwAAAAAAAAAAAAAAAAAAAADzBLU/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAAAAAAAAgD8AAAAA",
+      "byteLength": 144
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/",
+      "byteLength": 72
+    },
+    {
+      "name": "INDEX",
+      "uri": "data:application/octet-stream;base64,AAAAAAEAAAACAAAAAgAAAAMAAAAAAAAABAAAAAUAAAAGAAAABgAAAAcAAAAEAAAACAAAAAkAAAAKAAAACgAAAAsAAAAIAAAADAAAAA0AAAAOAAAADgAAAA8AAAAMAAAAEAAAABEAAAASAAAAEgAAABMAAAAQAAAAFAAAABUAAAAWAAAAFgAAABcAAAAUAAAA",
+      "byteLength": 144
+    },
+    {
+      "name": "POSITION",
+      "uri": "data:application/octet-stream;base64,AAAAPwAAAD8AAAA/AAAAPwAAAL8AAAA/AAAAPwAAAL8AAAC/AAAAPwAAAD8AAAC/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAC/AAAAvwAAAD8AAAC/AAAAvwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAL8AAAA/AAAAPwAAAL8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAD8AAAC/AAAAvwAAAL8AAAC/AAAAPwAAAL8AAAC/AAAAPwAAAL8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAL8AAAC/AAAAvwAAAD8AAAC/AAAAPwAAAD8AAAC/AAAAPwAAAL8AAAC/AAAAvwAAAL8AAAC/",
+      "byteLength": 288
+    },
+    {
+      "name": "NORMAL",
+      "uri": "data:application/octet-stream;base64,AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/",
+      "byteLength": 288
+    },
+    {
+      "name": "TEXCOORD_0",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIA/AACAPwAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIA/AACAPwAAAAAAAIA/",
+      "byteLength": 192
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/",
+      "byteLength": 96
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/",
+      "byteLength": 72
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/IVS5/yFUuf8hVLn/",
+      "byteLength": 96
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 0,
+          "material": 0,
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "COLOR_0": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 5,
+          "material": 0,
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "COLOR_0": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 0,
+          "material": 1,
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "COLOR_0": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 5,
+          "material": 1,
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "COLOR_0": 11
+          }
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.972549021, 0.972549021, 0.972549021, 1]
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.129411772, 0.329411775, 0.725490212, 1]
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "children": [ 1, 18 ],
+      "name": "libro",
+      "rotation": [0, 0.707106769, 0, 0.707106769],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b71"}
+    },
+    {
+      "children": [ 2, 6, 10, 14 ],
+      "name": "Model",
+      "translation": [0, 0.0294616222, 0.0269603748],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b7c"}
+    },
+    {
+      "children": [ 3, 4, 5 ],
+      "name": "papel",
+      "translation": [0, -0.0600812435, -0.524454117],
+      "rotation": [0.043619398, 0, 0, 0.999048293],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b89"}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-06, -1.17719173e-06, 0.501010358],
+      "rotation": [-0, -1.00000024, 3.30872166e-24, -0],
+      "scale": [2.75669909, 0.0835366175, 0.167073295],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b8c","Shape":"Wedge","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [0, -2.8014183e-06, -0.00040948391],
+      "rotation": [-3.30872166e-24, 0, 0, 1.00000024],
+      "scale": [2.75670981, 0.0835366473, 0.835366488],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b8b","Shape":"Block","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-06, -1.0356307e-06, -0.501008213],
+      "rotation": [-3.30872166e-24, 0, 0, 1.00000024],
+      "scale": [2.75669909, 0.0835366175, 0.167073295],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b8a","Shape":"Wedge","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ 7, 8, 9 ],
+      "name": "papel",
+      "translation": [0, -0.0600833893, 0.558538437],
+      "rotation": [-0.0436194912, 0, 0, 0.999048829],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b85"}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-06, 2.82377005e-06, 0.501013577],
+      "rotation": [-0, -1.00000167, 3.72528408e-09, -0],
+      "scale": [2.75669909, 0.0835366175, 0.167073295],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b88","Shape":"Wedge","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [0, 6.63101673e-07, -0.000409662724],
+      "rotation": [-3.72528408e-09, 0, 0, 1.00000167],
+      "scale": [2.75670981, 0.0835366473, 0.835366488],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b87","Shape":"Block","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-06, -3.00258398e-06, -0.50101161],
+      "rotation": [-3.72528408e-09, 0, 0, 1.00000167],
+      "scale": [2.75669909, 0.0835366175, 0.167073295],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b86","Shape":"Wedge","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ 11, 12, 13 ],
+      "name": "papel",
+      "translation": [0, 0, -0.528310776],
+      "rotation": [0.0871557444, 0, 0, 0.99619472],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b81"}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-06, -9.79751348e-07, 0.488810629],
+      "rotation": [-0, -1, -0, -0],
+      "scale": [2.68958044, 0.0815027058, 0.163005486],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b84","Shape":"Wedge","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [0, -3.98606062e-07, -0.000309795141],
+      "scale": [2.68959045, 0.0815027431, 0.815027416],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b83","Shape":"Block","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-06, 9.76026058e-07, -0.488810688],
+      "scale": [2.68958044, 0.0815027058, 0.163005486],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b82","Shape":"Wedge","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ 15, 16, 17 ],
+      "name": "papel",
+      "translation": [0, 0, 0.528312683],
+      "rotation": [-0.087155804, 0, 0, 0.996194899],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b7d"}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-06, 9.38773155e-07, 0.488811016],
+      "rotation": [-0, -1.00000036, -0, -0],
+      "scale": [2.68958044, 0.0815027058, 0.163005486],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b80","Shape":"Wedge","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [0, 4.02331352e-07, -0.000309884548],
+      "rotation": [0, 0, 0, 1.00000036],
+      "scale": [2.68959045, 0.0815027431, 0.815027416],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b7f","Shape":"Block","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469704e-06, -9.38773155e-07, -0.488811016],
+      "rotation": [0, 0, 0, 1.00000036],
+      "scale": [2.68958044, 0.0815027058, 0.163005486],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b7e","Shape":"Wedge","Material":"asphalt","Color":"(248, 248, 248)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ 19, 23 ],
+      "name": "Model",
+      "translation": [-0, -0.0783822536, 0],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b73"}
+    },
+    {
+      "children": [ 20, 21, 22 ],
+      "name": "papel",
+      "translation": [0, 2.38418579e-07, -0.593137801],
+      "rotation": [0.0436193869, 0, 0, 0.999048233],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b78"}
+    },
+    {
+      "children": [ ],
+      "mesh": 2,
+      "name": "Part",
+      "translation": [3.81469727e-06, 7.4505806e-08, 0.548789799],
+      "rotation": [-0, -1, -0, -0],
+      "scale": [3.01959848, 0.0915032923, 0.183006644],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b7b","Shape":"Wedge","Material":"asphalt","Color":"(33, 84, 185)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [0, -3.42726707e-07, -0.000310122967],
+      "scale": [3.01960969, 0.0915033221, 0.915033221],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b7a","Shape":"Block","Material":"asphalt","Color":"(33, 84, 185)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 2,
+      "name": "Part",
+      "translation": [3.81469727e-06, 8.94069672e-08, -0.548787773],
+      "scale": [3.01959848, 0.0915032923, 0.183006644],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b79","Shape":"Wedge","Material":"asphalt","Color":"(33, 84, 185)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ 24, 25, 26 ],
+      "name": "papel",
+      "translation": [0, 2.38418579e-07, 0.593137801],
+      "rotation": [-0.0436193869, 0, 0, 0.999048233],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b74"}
+    },
+    {
+      "children": [ ],
+      "mesh": 2,
+      "name": "Part",
+      "translation": [3.81469727e-06, 8.94069672e-08, 0.548787773],
+      "rotation": [-0, -1, -0, -0],
+      "scale": [3.01959848, 0.0915032923, 0.183006644],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b77","Shape":"Wedge","Material":"asphalt","Color":"(33, 84, 185)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [0, 3.12924385e-07, -0.000310122967],
+      "scale": [3.01960969, 0.0915033221, 0.915033221],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b76","Shape":"Block","Material":"asphalt","Color":"(33, 84, 185)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 2,
+      "name": "Part",
+      "translation": [3.81469727e-06, -1.04308128e-07, -0.548787892],
+      "scale": [3.01959848, 0.0915032923, 0.183006644],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"1b326569-2770-a90c-0a90-888b00000b75","Shape":"Wedge","Material":"asphalt","Color":"(33, 84, 185)","Transparency":0,"Anchored":true}
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [ 0 ]
+    }
+  ]
+}
+

@@ -1,0 +1,545 @@
+{
+  "accessors": [
+    {
+      "name": "INDEX",
+      "bufferView": 0,
+      "componentType": 5125,
+      "type": "SCALAR",
+      "count": 288
+    },
+    {
+      "name": "POSITION",
+      "bufferView": 1,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 114
+    },
+    {
+      "name": "NORMAL",
+      "bufferView": 2,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 114
+    },
+    {
+      "name": "TEXCOORD_0",
+      "bufferView": 3,
+      "componentType": 5126,
+      "type": "VEC2",
+      "count": 114
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 4,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 114
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 5,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 114
+    },
+    {
+      "name": "INDEX",
+      "bufferView": 6,
+      "componentType": 5125,
+      "type": "SCALAR",
+      "count": 24
+    },
+    {
+      "name": "POSITION",
+      "bufferView": 7,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 18
+    },
+    {
+      "name": "NORMAL",
+      "bufferView": 8,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 18
+    },
+    {
+      "name": "TEXCOORD_0",
+      "bufferView": 9,
+      "componentType": 5126,
+      "type": "VEC2",
+      "count": 18
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 10,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 18
+    },
+    {
+      "name": "INDEX",
+      "bufferView": 11,
+      "componentType": 5125,
+      "type": "SCALAR",
+      "count": 36
+    },
+    {
+      "name": "POSITION",
+      "bufferView": 12,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 24
+    },
+    {
+      "name": "NORMAL",
+      "bufferView": 13,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 24
+    },
+    {
+      "name": "TEXCOORD_0",
+      "bufferView": 14,
+      "componentType": 5126,
+      "type": "VEC2",
+      "count": 24
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 15,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 24
+    }
+  ],
+  "asset": {
+    "generator": "Roblox Export",
+    "version": "2.0",
+    "min_version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "name": "INDEX",
+      "buffer": 0,
+      "byteLength": 1152
+    },
+    {
+      "name": "POSITION",
+      "buffer": 1,
+      "byteLength": 1368
+    },
+    {
+      "name": "NORMAL",
+      "buffer": 2,
+      "byteLength": 1368
+    },
+    {
+      "name": "TEXCOORD_0",
+      "buffer": 3,
+      "byteLength": 912
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 4,
+      "byteLength": 456
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 5,
+      "byteLength": 456
+    },
+    {
+      "name": "INDEX",
+      "buffer": 6,
+      "byteLength": 96
+    },
+    {
+      "name": "POSITION",
+      "buffer": 7,
+      "byteLength": 216
+    },
+    {
+      "name": "NORMAL",
+      "buffer": 8,
+      "byteLength": 216
+    },
+    {
+      "name": "TEXCOORD_0",
+      "buffer": 9,
+      "byteLength": 144
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 10,
+      "byteLength": 72
+    },
+    {
+      "name": "INDEX",
+      "buffer": 11,
+      "byteLength": 144
+    },
+    {
+      "name": "POSITION",
+      "buffer": 12,
+      "byteLength": 288
+    },
+    {
+      "name": "NORMAL",
+      "buffer": 13,
+      "byteLength": 288
+    },
+    {
+      "name": "TEXCOORD_0",
+      "buffer": 14,
+      "byteLength": 192
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 15,
+      "byteLength": 96
+    }
+  ],
+  "buffers": [
+    {
+      "name": "INDEX",
+      "uri": "data:application/octet-stream;base64,AAAAAAcAAAAIAAAACAAAAAEAAAAAAAAAAQAAAAgAAAAJAAAACQAAAAIAAAABAAAAAgAAAAkAAAAKAAAACgAAAAMAAAACAAAAAwAAAAoAAAALAAAACwAAAAQAAAADAAAABAAAAAsAAAAMAAAADAAAAAUAAAAEAAAABQAAAAwAAAANAAAADQAAAAYAAAAFAAAADgAAABUAAAAWAAAAFgAAAA8AAAAOAAAADwAAABYAAAAXAAAAFwAAABAAAAAPAAAAEAAAABcAAAAYAAAAGAAAABEAAAAQAAAAEQAAABgAAAAZAAAAGQAAABIAAAARAAAAEgAAABkAAAAaAAAAGgAAABMAAAASAAAAEwAAABoAAAAbAAAAGwAAABQAAAATAAAAHAAAACMAAAAkAAAAJAAAAB0AAAAcAAAAHQAAACQAAAAlAAAAJQAAAB4AAAAdAAAAHgAAACUAAAAmAAAAJgAAAB8AAAAeAAAAHwAAACYAAAAnAAAAJwAAACAAAAAfAAAAIAAAACcAAAAoAAAAKAAAACEAAAAgAAAAIQAAACgAAAApAAAAKQAAACIAAAAhAAAAKgAAADEAAAAyAAAAMgAAACsAAAAqAAAAKwAAADIAAAAzAAAAMwAAACwAAAArAAAALAAAADMAAAA0AAAANAAAAC0AAAAsAAAALQAAADQAAAA1AAAANQAAAC4AAAAtAAAALgAAADUAAAA2AAAANgAAAC8AAAAuAAAALwAAADYAAAA3AAAANwAAADAAAAAvAAAAOAAAADkAAAA6AAAAOAAAADoAAAA7AAAAOAAAADsAAAA8AAAAOAAAADwAAAA9AAAAOAAAAD0AAAA+AAAAOAAAAD4AAAA/AAAAOAAAAEAAAABBAAAAOAAAAEEAAABCAAAAOAAAAEIAAABDAAAAOAAAAEMAAABEAAAAOAAAAEQAAABFAAAAOAAAAEUAAABGAAAAOAAAAEcAAABIAAAAOAAAAEgAAABJAAAAOAAAAEkAAABKAAAAOAAAAEoAAABLAAAAOAAAAEsAAABMAAAAOAAAAEwAAABNAAAAOAAAAE4AAABPAAAAOAAAAE8AAABQAAAAOAAAAFAAAABRAAAAOAAAAFEAAABSAAAAOAAAAFIAAABTAAAAOAAAAFMAAABUAAAAVQAAAFcAAABWAAAAVQAAAFgAAABXAAAAVQAAAFkAAABYAAAAVQAAAFoAAABZAAAAVQAAAFsAAABaAAAAVQAAAFwAAABbAAAAVQAAAF4AAABdAAAAVQAAAF8AAABeAAAAVQAAAGAAAABfAAAAVQAAAGEAAABgAAAAVQAAAGIAAABhAAAAVQAAAGMAAABiAAAAVQAAAGUAAABkAAAAVQAAAGYAAABlAAAAVQAAAGcAAABmAAAAVQAAAGgAAABnAAAAVQAAAGkAAABoAAAAVQAAAGoAAABpAAAAVQAAAGwAAABrAAAAVQAAAG0AAABsAAAAVQAAAG4AAABtAAAAVQAAAG8AAABuAAAAVQAAAHAAAABvAAAAVQAAAHEAAABwAAAA",
+      "byteLength": 1152
+    },
+    {
+      "name": "POSITION",
+      "uri": "data:application/octet-stream;base64,AAAAv/MEtb7zBLU+AAAAv9UAjr5AAdU+AAAAv5voIb7p3PI+AAAAvwAAAAAAAAA/AAAAv53oIT7p3PI+AAAAv9UAjj5AAdU+AAAAv/MEtT7zBLU+AAAAP/MEtb7zBLU+AAAAP9UAjr5AAdU+AAAAP5voIb7p3PI+AAAAPwAAAAAAAAA/AAAAP53oIT7p3PI+AAAAP9UAjj5AAdU+AAAAP/MEtT7zBLU+AAAAv/MEtT7zBLU+AAAAv0AB1T7VAI4+AAAAv+nc8j6b6CE+AAAAvwAAAD8AAAAAAAAAv+nc8j6d6CG+AAAAv0AB1T7VAI6+AAAAv/MEtT7zBLW+AAAAP/MEtT7zBLU+AAAAP0AB1T7VAI4+AAAAP+nc8j6b6CE+AAAAPwAAAD8AAAAAAAAAP+nc8j6d6CG+AAAAP0AB1T7VAI6+AAAAP/MEtT7zBLW+AAAAv/MEtT7zBLW+AAAAv9UAjj5AAdW+AAAAv5voIT7p3PK+AAAAvwAAAIAAAAC/AAAAv53oIb7p3PK+AAAAv9UAjr5AAdW+AAAAv/MEtb7zBLW+AAAAP/MEtT7zBLW+AAAAP9UAjj5AAdW+AAAAP5voIT7p3PK+AAAAPwAAAAAAAAC/AAAAP53oIb7p3PK+AAAAP9UAjr5AAdW+AAAAP/MEtb7zBLW+AAAAv/MEtb7zBLW+AAAAv0AB1b7VAI6+AAAAv+nc8r6b6CG+AAAAvwAAAL8AAAAAAAAAv+nc8r6d6CE+AAAAv0AB1b7VAI4+AAAAv/MEtb7zBLU+AAAAP/MEtb7zBLW+AAAAP0AB1b7VAI6+AAAAP+nc8r6b6CG+AAAAPwAAAL8AAAAAAAAAP+nc8r6d6CE+AAAAP0AB1b7VAI4+AAAAP/MEtb7zBLU+AAAAvwAAAIAAAACAAAAAv/MEtb7zBLU+AAAAv9UAjr5AAdU+AAAAv5voIb7p3PI+AAAAvwAAAAAAAAA/AAAAv53oIT7p3PI+AAAAv9UAjj5AAdU+AAAAv/MEtT7zBLU+AAAAv/MEtT7zBLU+AAAAv0AB1T7VAI4+AAAAv+nc8j6b6CE+AAAAvwAAAD8AAAAAAAAAv+nc8j6d6CG+AAAAv0AB1T7VAI6+AAAAv/MEtT7zBLW+AAAAv/MEtT7zBLW+AAAAv9UAjj5AAdW+AAAAv5voIT7p3PK+AAAAvwAAAIAAAAC/AAAAv53oIb7p3PK+AAAAv9UAjr5AAdW+AAAAv/MEtb7zBLW+AAAAv/MEtb7zBLW+AAAAv0AB1b7VAI6+AAAAv+nc8r6b6CG+AAAAvwAAAL8AAAAAAAAAv+nc8r6d6CE+AAAAv0AB1b7VAI4+AAAAv/MEtb7zBLU+AAAAPwAAAAAAAAAAAAAAP/MEtb7zBLU+AAAAP9UAjr5AAdU+AAAAP5voIb7p3PI+AAAAPwAAAAAAAAA/AAAAP53oIT7p3PI+AAAAP9UAjj5AAdU+AAAAP/MEtT7zBLU+AAAAP/MEtT7zBLU+AAAAP0AB1T7VAI4+AAAAP+nc8j6b6CE+AAAAPwAAAD8AAAAAAAAAP+nc8j6d6CG+AAAAP0AB1T7VAI6+AAAAP/MEtT7zBLW+AAAAP/MEtT7zBLW+AAAAP9UAjj5AAdW+AAAAP5voIT7p3PK+AAAAPwAAAAAAAAC/AAAAP53oIb7p3PK+AAAAP9UAjr5AAdW+AAAAP/MEtb7zBLW+AAAAP/MEtb7zBLW+AAAAP0AB1b7VAI6+AAAAP+nc8r6b6CG+AAAAPwAAAL8AAAAAAAAAP+nc8r6d6CE+AAAAP0AB1b7VAI4+AAAAP/MEtb7zBLU+",
+      "byteLength": 1368
+    },
+    {
+      "name": "NORMAL",
+      "uri": "data:application/octet-stream;base64,AAAAANZqNb/WajU/AAAAADQaDb9Wq1U/AAAAAIZCob7I43E/AAAAAAAAAAAAAIA/AAAAAIRCoT7I43E/AAAAADQaDT9Wq1U/AAAAANZqNT/WajU/AAAAANZqNb/WajU/AAAAADQaDb9Wq1U/AAAAAIZCob7I43E/AAAAAAAAAAAAAIA/AAAAAIRCoT7I43E/AAAAADQaDT9Wq1U/AAAAANZqNT/WajU/AAAAANZqNT/WajU/AAAAAFarVT80Gg0/AAAAAMjjcT+EQqE+AAAAAAAAgD8AAAAAAAAAAMjjcT+GQqG+AAAAAFarVT80Gg2/AAAAANZqNT/WajW/AAAAANZqNT/WajU/AAAAAFarVT80Gg0/AAAAAMjjcT+EQqE+AAAAAAAAgD8AAAAAAAAAAMjjcT+GQqG+AAAAAFarVT80Gg2/AAAAANZqNT/WajW/AAAAANZqNT/WajW/AAAAADQaDT9Xq1W/AAAAAIRCoT7I43G/AAAAAAAAAAAAAIC/AAAAAIZCob7I43G/AAAAADQaDb9Xq1W/AAAAANZqNb/WajW/AAAAANZqNT/WajW/AAAAADQaDT9Xq1W/AAAAAIRCoT7I43G/AAAAAAAAAAAAAIC/AAAAAIZCob7I43G/AAAAADQaDb9Xq1W/AAAAANZqNb/WajW/AAAAANZqNb/WajW/AAAAAFerVb80Gg2/AAAAAMjjcb+GQqG+AAAAAAAAgL8AAAAAAAAAAMjjcb+EQqE+AAAAAFerVb80Gg0/AAAAANZqNb/WajU/AAAAANZqNb/WajW/AAAAAFerVb80Gg2/AAAAAMjjcb+GQqG+AAAAAAAAgL8AAAAAAAAAAMjjcb+EQqE+AAAAAFerVb80Gg0/AAAAANZqNb/WajU/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAA",
+      "byteLength": 1368
+    },
+    {
+      "name": "TEXCOORD_0",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAAAAq6oqPgAAAACrqqo+AAAAAAAAAD8AAAAAq6oqPwAAAABVVVU/AAAAAAAAgD8AAIA/AAAAAAAAgD+rqio+AACAP6uqqj4AAIA/AAAAPwAAgD+rqio/AACAP1VVVT8AAIA/AACAPwAAAAAAAAAAAAAAAKuqKj4AAAAAq6qqPgAAAAAAAAA/AAAAAKuqKj8AAAAAVVVVPwAAAAAAAIA/AACAPwAAAAAAAIA/q6oqPgAAgD+rqqo+AACAPwAAAD8AAIA/q6oqPwAAgD9VVVU/AACAPwAAgD8AAAAAAAAAAAAAAACrqio+AAAAAKuqqj4AAAAAAAAAPwAAAACrqio/AAAAAFVVVT8AAAAAAACAPwAAgD8AAAAAAACAP6uqKj4AAIA/q6qqPgAAgD8AAAA/AACAP6uqKj8AAIA/VVVVPwAAgD8AAIA/AAAAAAAAAAAAAAAAq6oqPgAAAACrqqo+AAAAAAAAAD8AAAAAq6oqPwAAAABVVVU/AAAAAAAAgD8AAIA/AAAAAAAAgD+rqio+AACAP6uqqj4AAIA/AAAAPwAAgD+rqio/AACAP1VVVT8AAIA/AACAPwAAAD8AAAA/eoJaPxr2FT6ggGo/Vv5jPnRueT+yC68+AACAPwAAAD90bnk/J3ooP6CAaj9qAEc/eoJaP3qCWj96glo/eoJaP2oARz+ggGo/J3ooP3RueT8AAAA/AACAP7ILrz50bnk/Vv5jPqCAaj8a9hU+eoJaPxr2FT56glo/APurPWoARz9wMdI8J3ooPwAAAAAAAAA/cDHSPLILrz4A+6s9Vv5jPhr2FT4a9hU+GvYVPhr2FT5W/mM+APurPbILrz5wMdI8AAAAPwAAAAAneig/cDHSPGoARz8A+6s9eoJaPxr2FT4AAAA/AAAAP3qCWj8a9hU+oIBqP1b+Yz50bnk/sguvPgAAgD8AAAA/dG55Pyd6KD+ggGo/agBHP3qCWj96glo/eoJaP3qCWj9qAEc/oIBqPyd6KD90bnk/AAAAPwAAgD+yC68+dG55P1b+Yz6ggGo/GvYVPnqCWj8a9hU+eoJaPwD7qz1qAEc/cDHSPCd6KD8AAAAAAAAAP3Ax0jyyC68+APurPVb+Yz4a9hU+GvYVPhr2FT4a9hU+Vv5jPgD7qz2yC68+cDHSPAAAAD8AAAAAJ3ooP3Ax0jxqAEc/APurPXqCWj8a9hU+",
+      "byteLength": 912
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/zI5p/8yOaf/Mjmn/",
+      "byteLength": 456
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/",
+      "byteLength": 456
+    },
+    {
+      "name": "INDEX",
+      "uri": "data:application/octet-stream;base64,AAAAAAEAAAACAAAAAgAAAAMAAAAAAAAABAAAAAUAAAAGAAAABgAAAAcAAAAEAAAACAAAAAkAAAAKAAAACgAAAAsAAAAIAAAADAAAAA4AAAANAAAADwAAABAAAAARAAAA",
+      "byteLength": 96
+    },
+    {
+      "name": "POSITION",
+      "uri": "data:application/octet-stream;base64,AAAAPwAAAD8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAL8AAAA/AAAAPwAAAL8AAAA/AAAAPwAAAL8AAAC/AAAAPwAAAL8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAL8AAAC/AAAAPwAAAD8AAAA/AAAAPwAAAL8AAAC/AAAAvwAAAL8AAAC/AAAAvwAAAD8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAL8AAAC/AAAAPwAAAD8AAAA/AAAAPwAAAL8AAAA/AAAAPwAAAL8AAAC/",
+      "byteLength": 216
+    },
+    {
+      "name": "NORMAL",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAANZqNT/WajW/AAAAANZqNT/WajW/AAAAANZqNT/WajW/AAAAANZqNT/WajW/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAA",
+      "byteLength": 216
+    },
+    {
+      "name": "TEXCOORD_0",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAgD/zBLU/AACAPwAAAAAAAAAAAAAAAAAAAADzBLU/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAAAAAAAAgD8AAAAA",
+      "byteLength": 144
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/",
+      "byteLength": 72
+    },
+    {
+      "name": "INDEX",
+      "uri": "data:application/octet-stream;base64,AAAAAAEAAAACAAAAAgAAAAMAAAAAAAAABAAAAAUAAAAGAAAABgAAAAcAAAAEAAAACAAAAAkAAAAKAAAACgAAAAsAAAAIAAAADAAAAA0AAAAOAAAADgAAAA8AAAAMAAAAEAAAABEAAAASAAAAEgAAABMAAAAQAAAAFAAAABUAAAAWAAAAFgAAABcAAAAUAAAA",
+      "byteLength": 144
+    },
+    {
+      "name": "POSITION",
+      "uri": "data:application/octet-stream;base64,AAAAPwAAAD8AAAA/AAAAPwAAAL8AAAA/AAAAPwAAAL8AAAC/AAAAPwAAAD8AAAC/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAC/AAAAvwAAAD8AAAC/AAAAvwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAL8AAAA/AAAAPwAAAL8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAD8AAAC/AAAAvwAAAL8AAAC/AAAAPwAAAL8AAAC/AAAAPwAAAL8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAL8AAAC/AAAAvwAAAD8AAAC/AAAAPwAAAD8AAAC/AAAAPwAAAL8AAAC/AAAAvwAAAL8AAAC/",
+      "byteLength": 288
+    },
+    {
+      "name": "NORMAL",
+      "uri": "data:application/octet-stream;base64,AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/",
+      "byteLength": 288
+    },
+    {
+      "name": "TEXCOORD_0",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIA/AACAPwAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIA/AACAPwAAAAAAAIA/",
+      "byteLength": 192
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/7erq/+3q6v/t6ur/",
+      "byteLength": 96
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 0,
+          "material": 0,
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "COLOR_0": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 0,
+          "material": 1,
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "COLOR_0": 5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wedge",
+      "primitives": [
+        {
+          "indices": 6,
+          "material": 1,
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8,
+            "TEXCOORD_0": 9,
+            "COLOR_0": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 11,
+          "material": 1,
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14,
+            "COLOR_0": 15
+          }
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.800000012, 0.556862772, 0.411764711, 1]
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.929411769, 0.917647064, 0.917647064, 1]
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "children": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 ],
+      "name": "Model",
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022ccc"}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-0.0351104736, 0.504762173, -0.0733947754],
+      "rotation": [0.0699552, 0.0699552, 0.703637898, 0.703637898],
+      "scale": [1.89379621, 0.222530738, 0.222530738],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cdf","Shape":"Cylinder","Material":"wood","Color":"(204, 142, 105)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-0.0344161987, -0.596925259, -0.0699863434],
+      "rotation": [0.0699552, 0.0699552, 0.703637898, 0.703637898],
+      "scale": [0.284234166, 0.354542106, 0.354542106],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cde","Shape":"Cylinder","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-0.0526351929, 1.96785116, -0.0700359344],
+      "rotation": [0.00371648115, 0.0945101827, -0.00748490589, 0.995488822],
+      "scale": [0.624547184, 0.222530738, 0.222530738],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cdd","Shape":"Cylinder","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-0.375480652, 1.8578639, -0.00815677643],
+      "rotation": [0.070131585, 0.0697782859, 0.705586553, 0.701683819],
+      "scale": [0.414568365, 0.222530738, 0.222530738],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cdc","Shape":"Cylinder","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [0.2838974, 1.8578639, -0.134538651],
+      "rotation": [0.070131585, 0.0697782859, 0.705586553, 0.701683819],
+      "scale": [0.414568365, 0.222530738, 0.222530738],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cdb","Shape":"Cylinder","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-0.265380859, 1.55497551, -0.0292596817],
+      "rotation": [-0.0873569176, -0.0443562828, -0.89992094, -0.424904257],
+      "scale": [0.414568365, 0.222530738, 0.222530738],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cda","Shape":"Cylinder","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [0.178497314, 1.55497646, -0.114337921],
+      "rotation": [0.0446527228, 0.087227121, 0.428096682, 0.898404598],
+      "scale": [0.414568365, 0.222530738, 0.222530738],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd9","Shape":"Cylinder","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-0.0344161987, 1.29544449, -0.0699863434],
+      "rotation": [0.0699552, 0.0699552, 0.703637898, 0.703637898],
+      "scale": [0.312431216, 0.354542106, 0.354542106],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd8","Shape":"Cylinder","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 2,
+      "name": "Wedge",
+      "translation": [-0.0174484253, -1.33173418, 0.00874996185],
+      "rotation": [-0.0654405355, -0.760631919, -0.642392516, 0.0669957325],
+      "scale": [0.127302676, 0.0543009713, 0.140000001],
+      "extras": {"RobloxInstanceType":"WedgePart","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd7","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [-0.306144714, -0.758747101, 0.101592064],
+      "rotation": [0, 0.187761664, 0, 0.982214689],
+      "scale": [0.599999964, 0.0500000007, 0.142970622],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd6","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [0.26991272, -0.758747101, -0.0118207932],
+      "scale": [0.64419055, 0.0500000007, 0.146524429],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd5","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-0.0351104736, -1.0005455, -0.0733947754],
+      "rotation": [0.0699552, 0.0699552, 0.703637898, 0.703637898],
+      "scale": [0.525792599, 0.222530738, 0.222530738],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd4","Shape":"Cylinder","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [-0.0114059448, -1.88220572, 0.0596389771],
+      "rotation": [-0.144095406, 0.0935490057, 0.0136847477, 0.985036969],
+      "scale": [0.744874477, 0.399999976, 0.0746486485],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd3","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [-0.328552246, -1.79420972, 0.114709854],
+      "rotation": [-0.170916095, 0.114996716, -0.45421958, 0.86674571],
+      "scale": [0.364198983, 0.416513175, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd2","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [0.329811096, -1.79729772, -0.00712108612],
+      "rotation": [-0.0563943461, -0.0880297422, -0.887698591, 0.448399097],
+      "scale": [0.393447399, 0.416513175, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd1","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [0.272010803, -1.24174547, -0.0482912064],
+      "scale": [0.639999986, 1.01599693, 0.0735854954],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cd0","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [-0.30065918, -1.24174547, 0.0616025925],
+      "rotation": [0, 0.187761664, 0, 0.982214689],
+      "scale": [0.639999986, 1.01599693, 0.0726782978],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022ccf","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [-0.59261322, -1.24174547, 0.204393387],
+      "rotation": [0, -0.127385095, 0, 0.991853356],
+      "scale": [0.0500000007, 1.01599693, 0.13177304],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022cce","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 3,
+      "name": "Part",
+      "translation": [0.583068848, -1.24174547, -0.0161170959],
+      "rotation": [0, 0.182354435, 0, 0.983232915],
+      "scale": [0.0526713878, 1.01599693, 0.143785298],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"0221a38b-b6e7-4b17-0aa1-ceea00022ccd","Shape":"Block","Material":"metal","Color":"(237, 234, 234)","Transparency":0,"Anchored":true}
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [ 0 ]
+    }
+  ]
+}
+

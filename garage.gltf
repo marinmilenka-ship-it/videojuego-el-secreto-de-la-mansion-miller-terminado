@@ -1,0 +1,764 @@
+{
+  "accessors": [
+    {
+      "name": "INDEX",
+      "bufferView": 0,
+      "componentType": 5125,
+      "type": "SCALAR",
+      "count": 36
+    },
+    {
+      "name": "POSITION",
+      "bufferView": 1,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 24
+    },
+    {
+      "name": "NORMAL",
+      "bufferView": 2,
+      "componentType": 5126,
+      "type": "VEC3",
+      "count": 24
+    },
+    {
+      "name": "TEXCOORD_0",
+      "bufferView": 3,
+      "componentType": 5126,
+      "type": "VEC2",
+      "count": 24
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 4,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 24
+    },
+    {
+      "name": "COLOR_0",
+      "bufferView": 5,
+      "componentType": 5121,
+      "type": "VEC4",
+      "normalized": true,
+      "count": 24
+    }
+  ],
+  "asset": {
+    "generator": "Roblox Export",
+    "version": "2.0",
+    "min_version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "name": "INDEX",
+      "buffer": 0,
+      "byteLength": 144
+    },
+    {
+      "name": "POSITION",
+      "buffer": 1,
+      "byteLength": 288
+    },
+    {
+      "name": "NORMAL",
+      "buffer": 2,
+      "byteLength": 288
+    },
+    {
+      "name": "TEXCOORD_0",
+      "buffer": 3,
+      "byteLength": 192
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 4,
+      "byteLength": 96
+    },
+    {
+      "name": "COLOR_0",
+      "buffer": 5,
+      "byteLength": 96
+    }
+  ],
+  "buffers": [
+    {
+      "name": "INDEX",
+      "uri": "data:application/octet-stream;base64,AAAAAAEAAAACAAAAAgAAAAMAAAAAAAAABAAAAAUAAAAGAAAABgAAAAcAAAAEAAAACAAAAAkAAAAKAAAACgAAAAsAAAAIAAAADAAAAA0AAAAOAAAADgAAAA8AAAAMAAAAEAAAABEAAAASAAAAEgAAABMAAAAQAAAAFAAAABUAAAAWAAAAFgAAABcAAAAUAAAA",
+      "byteLength": 144
+    },
+    {
+      "name": "POSITION",
+      "uri": "data:application/octet-stream;base64,AAAAPwAAAD8AAAA/AAAAPwAAAL8AAAA/AAAAPwAAAL8AAAC/AAAAPwAAAD8AAAC/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAC/AAAAvwAAAD8AAAC/AAAAvwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAL8AAAA/AAAAPwAAAL8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAD8AAAA/AAAAvwAAAD8AAAC/AAAAvwAAAL8AAAC/AAAAPwAAAL8AAAC/AAAAPwAAAL8AAAA/AAAAvwAAAL8AAAA/AAAAvwAAAL8AAAC/AAAAvwAAAD8AAAC/AAAAPwAAAD8AAAC/AAAAPwAAAL8AAAC/AAAAvwAAAL8AAAC/",
+      "byteLength": 288
+    },
+    {
+      "name": "NORMAL",
+      "uri": "data:application/octet-stream;base64,AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/",
+      "byteLength": 288
+    },
+    {
+      "name": "TEXCOORD_0",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIA/AACAPwAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIA/AACAPwAAAAAAAIA/",
+      "byteLength": 192
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,8vPz//Lz8//y8/P/8vPz//Lz8//y8/P/8vPz//Lz8//y8/P/8vPz//Lz8//y8/P/8vPz//Lz8//y8/P/8vPz//Lz8//y8/P/8vPz//Lz8//y8/P/8vPz//Lz8//y8/P/",
+      "byteLength": 96
+    },
+    {
+      "name": "COLOR_0",
+      "uri": "data:application/octet-stream;base64,W11p/1tdaf9bXWn/W11p/1tdaf9bXWn/W11p/1tdaf9bXWn/W11p/1tdaf9bXWn/W11p/1tdaf9bXWn/W11p/1tdaf9bXWn/W11p/1tdaf9bXWn/W11p/1tdaf9bXWn/",
+      "byteLength": 96
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 0,
+          "material": 0,
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "COLOR_0": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part",
+      "primitives": [
+        {
+          "indices": 0,
+          "material": 1,
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "COLOR_0": 5
+          }
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.949019611, 0.952941179, 0.952941179, 1]
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.356862754, 0.36470589, 0.411764711, 1]
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "children": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73 ],
+      "name": "Model",
+      "rotation": [-0, -0, -1, 4.37113883e-08],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce0"}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -1.10499954, 0.325012207],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d29","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -4.10500908, 0.325012207],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d28","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587882e-05, 3.29501534, 0.325012207],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d27","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 5.09501839, 0.325012207],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d26","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -1.10500145, -0.331726074],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d25","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [5.09999084, 0.0950069427, 0.325012207],
+      "scale": [0.199997231, 10.1899958, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d24","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-4.80001831, -1.90734852e-06, 0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d23","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -1.40000534, 0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d22","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 0.600002289, 0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d21","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 5.40001297, 0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d20","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [10.39991, -1.90734863e-06, 0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d1f","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-05, -1.90734863e-06, 0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d1e","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 3.00000954, 0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d1d","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -3.80000877, 0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d1c","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-10.3999634, -1.90734863e-06, 0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d1b","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [4.79998016, -1.90734863e-06, 0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d1a","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -2.50001144, 6.10351562e-05],
+      "rotation": [-0, -0, -1, -0],
+      "scale": [16.7999973, 2.19999647, 0.199999616],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d19","Shape":"Block","Material":"smoothplastic","Color":"(91, 93, 105)","Transparency":0.8500000238418579,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [10.39991, -1.90734863e-06, -0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d18","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [3.81469727e-05, -1.90734863e-06, -0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d17","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-10.3999634, -1.90734863e-06, -0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d16","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-4.50000763, -0.00500106812, -0.331726074],
+      "scale": [0.199983209, 10.3899956, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d15","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-10.0999756, -0.00500106812, -0.331726074],
+      "scale": [0.199983209, 10.3899956, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d14","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-10.0997849, 0.0950069427, 0.325012207],
+      "scale": [0.199997231, 10.1899958, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d13","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-5.09983826, 0.0950069427, 0.325012207],
+      "scale": [0.199997231, 10.1899958, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d12","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [10.0999603, 0.0950069427, 0.325012207],
+      "scale": [0.199997231, 10.1899958, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d11","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [0.300079346, 0.0950069427, 0.325012207],
+      "scale": [0.199997231, 10.1899958, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d10","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-4.49984741, 0.0950069427, 0.325012207],
+      "scale": [0.199997231, 10.1899958, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d0f","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -4.60001183, 6.10351562e-05],
+      "scale": [22, 2, 0.600000024],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d0e","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-4.80001831, -1.90734852e-06, -0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d0d","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 3.00000954, -0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d0c","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 0.600002289, -0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d0b","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 5.40001297, -0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d0a","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [10.8000107, -1.90734863e-06, 0.400024414],
+      "scale": [0.400000513, 11.199995, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d09","Shape":"Block","Material":"smoothplastic","Color":"(91, 93, 105)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [5.09989166, -0.00500106812, -0.331726074],
+      "scale": [0.199983209, 10.3899956, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d08","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [0.299942017, -0.00500106812, -0.331726074],
+      "scale": [0.199983209, 10.3899956, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d07","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [4.49989319, -0.00500106812, -0.331726074],
+      "scale": [0.199983209, 10.3899956, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d06","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 2.69500351, -0.331726074],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d05","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 5.09500885, -0.331726074],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d04","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 0.894996643, -0.331726074],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d03","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-0.299911499, 0.0950069427, 0.325012207],
+      "scale": [0.199997231, 10.1899958, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d02","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [4.50001526, 0.0950069427, 0.325012207],
+      "scale": [0.199997231, 10.1899958, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d01","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 0.295003891, -0.331726074],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000d00","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -5.1050148, -0.331726074],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cff","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -4.10501099, -0.331726074],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cfe","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [10.8000107, -1.90734863e-06, -0.400024414],
+      "scale": [0.400000513, 11.199995, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cfd","Shape":"Block","Material":"smoothplastic","Color":"(91, 93, 105)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-10.7999496, -1.90734852e-06, -0.400024414],
+      "scale": [0.400000513, 11.199995, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cfc","Shape":"Block","Material":"smoothplastic","Color":"(91, 93, 105)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [4.57763672e-05, -5.40001106, -0.400024414],
+      "scale": [21.2000008, 0.399994254, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cfb","Shape":"Block","Material":"smoothplastic","Color":"(91, 93, 105)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 2.69501305, 0.325012207],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cfa","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -5.10501289, 0.325012207],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf9","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 0.295003891, 0.325012207],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf8","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [4.57763672e-05, -5.40001106, 0.400024414],
+      "scale": [21.2000008, 0.399994254, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf7","Shape":"Block","Material":"smoothplastic","Color":"(91, 93, 105)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 1,
+      "name": "Part",
+      "translation": [-10.7999496, -1.90734852e-06, 0.400024414],
+      "scale": [0.400000513, 11.199995, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf6","Shape":"Block","Material":"smoothplastic","Color":"(91, 93, 105)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-7.20877075, -2.50001144, 0],
+      "scale": [0.199998423, 2.19999599, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf5","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-7.20877075, -2.60202217, 0],
+      "rotation": [0, 0, 0.707106769, 0.707106769],
+      "scale": [0.199998423, 2.19999599, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf4","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [2.39115906, -2.50001144, 0],
+      "scale": [0.199998423, 2.19999599, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf3","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [7.19113159, -2.60202217, 0],
+      "rotation": [0, 0, 0.707106769, 0.707106769],
+      "scale": [0.199998423, 2.19999599, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf2","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [2.39115906, -2.60202217, 0],
+      "rotation": [0, 0, 0.707106769, 0.707106769],
+      "scale": [0.199998423, 2.19999599, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf1","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [7.19113159, -2.50001144, 0],
+      "scale": [0.199998423, 2.19999599, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cf0","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -3.80000877, -0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cef","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-2.40881348, -2.60202217, 0],
+      "rotation": [0, 0, 0.707106769, 0.707106769],
+      "scale": [0.199998423, 2.19999599, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cee","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-2.40881348, -2.50001144, 0],
+      "scale": [0.199998423, 2.19999599, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ced","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 2.00000381, 6.10351562e-05],
+      "scale": [22, 7.19999838, 0.600000024],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cec","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [10.0998306, -0.00500106812, -0.331726074],
+      "scale": [0.199983209, 10.3899956, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ceb","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-0.300048828, -0.00500106812, -0.331726074],
+      "scale": [0.199983209, 10.3899956, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000cea","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-5.10003662, -0.00500106812, -0.331726074],
+      "scale": [0.199983209, 10.3899956, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce9","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, -1.40000534, -0.400024414],
+      "scale": [21.1999969, 0.399997473, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce8","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-1.52587891e-05, 3.2950058, -0.331726074],
+      "scale": [21.1999969, 0.189997464, 0.0500000007],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce7","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [4.79998016, -1.90734863e-06, -0.400024414],
+      "scale": [0.399998426, 10.3999929, 0.200000003],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce6","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-4.8000946, -2.6000042, 6.10351562e-05],
+      "scale": [2.79999948, 2, 0.600000024],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce5","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-7.62939453e-05, -2.6000042, 6.10351562e-05],
+      "scale": [2.79999948, 2, 0.600000024],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce4","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [-9.60001373, -2.6000042, 6.10351562e-05],
+      "scale": [2.79999948, 2, 0.600000024],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce3","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [9.59988403, -2.6000042, 6.10351562e-05],
+      "scale": [2.79999948, 2, 0.600000024],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce2","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 0,
+      "name": "Part",
+      "translation": [4.79988861, -2.6000042, 6.10351562e-05],
+      "scale": [2.79999948, 2, 0.600000024],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"4e662367-8631-fc0d-0aa0-f34b00000ce1","Shape":"Block","Material":"smoothplastic","Color":"(242, 243, 243)","Transparency":0,"Anchored":true}
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [ 0 ]
+    }
+  ]
+}
+

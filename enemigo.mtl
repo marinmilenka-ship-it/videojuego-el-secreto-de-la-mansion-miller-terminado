@@ -1,0 +1,18 @@
+newmtl Realisticwhitemalelowpoly1Mtl
+Material Color
+Ka 0.0134734 5.69218e-05 5.69218e-05
+Kd 0.0134734 5.69218e-05 5.69218e-05
+Ks 0.00126808 5.35734e-06 5.35734e-06 
+
+d 1
+
+Ns 0
+
+map_Ka Realisticwhitemalelowpoly1_diff.png
+map_Kd Realisticwhitemalelowpoly1_diff.png
+map_d Realisticwhitemalelowpoly1_diff.png
+
+map_Bump Realisticwhitemalelowpoly1_nmap.png
+
+map_Ns Realisticwhitemalelowpoly1_spec.png
+
